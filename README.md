@@ -4,9 +4,11 @@
 
 AI-IDLC is an open methodology for delivering solutions whose primary work is **integrating, configuring, automating, and validating existing tools and platforms with AI assistance**.
 
-It is inspired by the ideas of AI-driven development lifecycles, including AWS AI-DLC, but shifts the center of gravity from software construction to **integration engineering**.
+It is inspired by the ideas of AI-driven development lifecycles, including AWS's AI-driven development lifecycle, but shifts the center of gravity from software construction to **integration engineering**.
 
 > In AI-IDLC, code is one possible implementation artifact — not the default measure of progress.
+
+**Start here:** [Why AI-IDLC?](docs/00-why-ai-idlc.md)
 
 ## Why AI-IDLC?
 
@@ -59,6 +61,7 @@ An AI-IDLC initiative may produce one or more of these artifact types:
 
 ## Documentation
 
+- [Why AI-IDLC?](docs/00-why-ai-idlc.md)
 - [Overview](docs/00-overview.md)
 - [Principles](docs/10-method/00-principles.md)
 - [Lifecycle](docs/10-method/README.md)
@@ -72,7 +75,7 @@ An AI-IDLC initiative may produce one or more of these artifact types:
 
 AI-IDLC is currently an early community methodology. The model, terminology and artifacts are expected to evolve through real-world use and public contribution.
 
-## Relationship to AI-DLC
+## Origins and relationship to development-centric AI lifecycles
 
 AI-IDLC is an independent community project. It is **not an AWS product and is not affiliated with or endorsed by AWS**.
 
