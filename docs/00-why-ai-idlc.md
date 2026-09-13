@@ -46,9 +46,9 @@ An integration-centric lifecycle must instead account for things such as:
 
 These are not secondary implementation details. In an integration-driven initiative, they are often the core of the solution.
 
-## AI-DLC and AI-IDLC solve related but different problems
+## Development-centric AI lifecycles and AI-IDLC solve related but different problems
 
-AI-IDLC was inspired by AI-driven development lifecycle concepts, including AWS AI-DLC, but changes the center of gravity from **software development** to **integration engineering**.
+AI-IDLC was inspired by AI-driven development lifecycle concepts, including AWS's AI-driven development lifecycle, but changes the center of gravity from **software development** to **integration engineering**.
 
 The distinction can be summarized as follows:
 
@@ -388,9 +388,9 @@ The goal is to establish a common engineering model for a simple observation:
 
 That is the problem AI-IDLC is designed to address.
 
-## Relationship to AI-DLC
+## Origins and relationship to development-centric AI lifecycles
 
-AI-IDLC is an independent community methodology inspired by AI-driven development lifecycle concepts, including AWS AI-DLC.
+AI-IDLC is an independent community methodology inspired by AI-driven development lifecycle concepts, including AWS's AI-driven development lifecycle.
 
 It is not an AWS product, is not affiliated with AWS, and is not endorsed by AWS.
 
