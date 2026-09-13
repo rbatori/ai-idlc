@@ -1,0 +1,13 @@
+id: UOW-XXX
+intent: INTENT-XXX
+type: INTEGRATION
+title: ""
+goal: ""
+inputs: []
+outputs: []
+dependencies: []
+risk: medium
+acceptance_criteria: []
+validation: []
+rollback: ""
+evidence: []
