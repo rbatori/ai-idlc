@@ -4,7 +4,7 @@ Execute or resume the AI-IDLC workflow for the current project.
 
 ## Instructions
 
-1. Read `core/orchestrator/AI-IDLC.md` from the installed AI-IDLC distribution.
+1. Read `.agents/ai-idlc/orchestrator/AI-IDLC.md` from the project harness.
 2. Inspect the current repository for AI-IDLC artifacts and `ai-idlc/state/workflow-state.yaml`.
 3. If no active Intent exists, run the Intent skill.
 4. If Intent is accepted but Discovery is incomplete, run Discovery.
