@@ -2,7 +2,7 @@
 
 Create the Integration Design for the active Intent.
 
-Use the integration architect agent.
+Load `.agents/ai-idlc/agents/integration-architect-agent.md` as the lead persona.
 
 ## Preconditions
 
