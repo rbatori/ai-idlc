@@ -2,7 +2,7 @@
 
 Perform read-only Discovery for the active Intent.
 
-Use the discovery agent.
+Load `.agents/ai-idlc/agents/discovery-agent.md` as the lead persona.
 
 ## Workflow
 
