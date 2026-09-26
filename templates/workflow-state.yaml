@@ -1,0 +1,10 @@
+version: 0.1
+intent: INTENT-XXX
+status: active
+current_stage: intent
+completed_stages: []
+pending_questions: []
+pending_approvals: []
+artifacts: {}
+evidence: []
+last_updated: ""
