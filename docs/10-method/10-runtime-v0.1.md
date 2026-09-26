@@ -69,7 +69,9 @@ This ordering operationalizes AI-IDLC's integration-first principle.
 
 ## Project runtime state
 
-A project using the runtime should maintain:
+A project using the runtime should maintain an artifact root. The default is `ai-idlc/`, but existing repositories may use another location such as `docs/ai-idlc/`. The selected path is stored as `artifact_root` in workflow state.
+
+A typical layout is:
 
 ```text
 ai-idlc/
@@ -83,7 +85,7 @@ ai-idlc/
     workflow-state.yaml
 ```
 
-This state belongs to the project using AI-IDLC, not to the methodology repository.
+This state belongs to the project using AI-IDLC, not to the methodology repository. Runtime tooling should preserve an existing project convention instead of forcing a migration solely for directory layout.
 
 ## Next runtime increment
 
