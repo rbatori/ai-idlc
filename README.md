@@ -23,6 +23,8 @@ Intent
   ↓
 Discovery
   ↓
+Capability Analysis
+  ↓
 Integration Design
   ↓
 Construction & Configuration
@@ -65,6 +67,7 @@ An AI-IDLC initiative may produce one or more of these artifact types:
 - [Overview](docs/00-overview.md)
 - [Principles](docs/10-method/00-principles.md)
 - [Lifecycle](docs/10-method/README.md)
+- [Runtime v0.1](docs/10-method/10-runtime-v0.1.md)
 - [Governance and gates](docs/20-governance/gates.md)
 - [Risk model](docs/20-governance/risk-model.md)
 - [Artifact model](docs/30-artifacts/README.md)

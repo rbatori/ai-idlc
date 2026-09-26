@@ -23,7 +23,22 @@ Typical activities:
 
 **Output:** verified current-state model.
 
-## Stage 2 — Integration Design
+## Stage 2 — Capability Analysis
+
+Determine how the desired outcome can be satisfied using existing capabilities before proposing custom software.
+
+Typical activities:
+
+- decompose the outcome into required capabilities;
+- verify relevant product/platform capabilities;
+- identify capability gaps;
+- evaluate ADOPT, CONFIGURE, INTEGRATE, AUTOMATE and EXTEND;
+- classify BUILD only when existing capabilities are insufficient;
+- record evidence and rationale for the selected strategy.
+
+**Output:** evidence-backed Capability Matrix.
+
+## Stage 3 — Integration Design
 
 Design how existing systems will work together.
 
@@ -42,7 +57,7 @@ Typical artifacts:
 
 **Output:** design ready for implementation.
 
-## Stage 3 — Construction & Configuration
+## Stage 4 — Construction & Configuration
 
 Implement the design using the minimum appropriate set of artifacts.
 
@@ -58,7 +73,7 @@ Possible work types:
 
 **Output:** versioned implementation artifacts.
 
-## Stage 4 — Validation
+## Stage 5 — Validation
 
 Prove that the integrated capability behaves as intended.
 
@@ -76,7 +91,7 @@ Validation may include:
 
 **Output:** validated outcome and recorded residual risk.
 
-## Stage 5 — Delivery & Operations
+## Stage 6 — Delivery & Operations
 
 Release and operate the capability safely.
 
@@ -91,7 +106,7 @@ Typical activities:
 
 **Output:** operationally accepted capability.
 
-## Stage 6 — Evidence & Learning
+## Stage 7 — Evidence & Learning
 
 Close the loop.
 

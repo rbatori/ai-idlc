@@ -12,6 +12,10 @@ Defines the outcome to achieve, scope, constraints, risks and success criteria.
 
 Captures verified current-state facts, capabilities, dependencies, unknowns and assumptions.
 
+### Capability Matrix
+
+Maps each required capability to verified existing capabilities, gaps, evidence, constraints and a strategy: ADOPT, CONFIGURE, INTEGRATE, AUTOMATE, EXTEND or BUILD.
+
 ### Integration Design
 
 Defines system relationships, interfaces, trust boundaries, flows, failure modes, observability and rollback.
@@ -47,6 +51,7 @@ Links intention, approval, execution and observed outcome.
 ```text
 Intent
   ├── Discovery
+  ├── Capability Matrix
   ├── Decisions
   ├── Integration Design
   ├── Units of Work

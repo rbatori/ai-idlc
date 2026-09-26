@@ -5,12 +5,13 @@ AI-IDLC uses lightweight gates to make decisions explicit without forcing every 
 | Gate | Decision |
 |---|---|
 | G0 | Intent accepted for analysis |
-| G1 | Ready for Integration Design |
-| G2 | Ready for Construction & Configuration |
-| G3 | Ready for Validation |
-| G4 | Ready for Delivery |
-| G5 | Operational Acceptance |
-| G6 | Intent Closed / Learning Captured |
+| G1 | Discovery accepted / Ready for Capability Analysis |
+| G2 | Capability Analysis accepted / Ready for Integration Design |
+| G3 | Integration Design accepted / Ready for Construction & Configuration |
+| G4 | Ready for Validation |
+| G5 | Ready for Delivery |
+| G6 | Operational Acceptance |
+| G7 | Intent Closed / Learning Captured |
 
 ## Tailoring
 

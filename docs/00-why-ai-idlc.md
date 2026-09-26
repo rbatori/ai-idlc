@@ -183,6 +183,8 @@ Intent
   ↓
 Discovery
   ↓
+Capability Analysis
+  ↓
 Integration Design
 ```
 
@@ -267,6 +269,8 @@ Intent
   ↓
 Discovery
   ↓
+Capability Analysis
+  ↓
 Integration Design
   ↓
 Construction & Configuration
@@ -285,6 +289,10 @@ Define the outcome to be achieved rather than prematurely prescribing the implem
 ### Discovery
 
 Inspect systems, capabilities, constraints, current state, dependencies, and risks.
+
+### Capability Analysis
+
+Determine which parts of the desired outcome can be delivered by existing capabilities. Evaluate ADOPT, CONFIGURE, INTEGRATE, AUTOMATE and EXTEND before proposing BUILD.
 
 ### Integration Design
 
@@ -368,8 +376,7 @@ It is not:
 - a replacement for all software development methodologies;
 - a claim that code is unnecessary;
 - a vendor-specific implementation framework;
-- an autonomous-agent framework;
-- a justification for allowing AI to make uncontrolled production changes;
+- a justification for allowing AI or agents to make uncontrolled production changes;
 - a fixed sequence that every project must follow identically.
 
 It is a lifecycle model for treating integration as engineering work with explicit intent, controlled execution, validation, governance, evidence, and learning.
