@@ -20,14 +20,15 @@ Later runtime versions extend the flow with implementation, validation, delivery
 For every invocation:
 
 1. Detect the project repository and read its AI-IDLC artifacts.
-2. Load or create `ai-idlc/state/workflow-state.yaml`.
-3. Identify the active Intent.
-4. Determine the current stage and unresolved blockers.
-5. Run the smallest appropriate set of agents/skills.
-6. Prefer evidence collection over asking the user for facts that can be discovered.
-7. Ask humans only for decisions, unavailable business context, credentials/access that cannot be obtained, or material approvals.
-8. Persist outputs and state.
-9. Stop at governance gates when human approval is required.
+2. Detect the artifact root. Reuse an existing AI-IDLC artifact directory when present; otherwise default to `ai-idlc/`.
+3. Load or create `<artifact_root>/state/workflow-state.yaml`.
+4. Identify the active Intent.
+5. Determine the current stage and unresolved blockers.
+6. Run the smallest appropriate set of agents/skills.
+7. Prefer evidence collection over asking the user for facts that can be discovered.
+8. Ask humans only for decisions, unavailable business context, credentials/access that cannot be obtained, or material approvals.
+9. Persist outputs and state.
+10. Stop at governance gates when human approval is required.
 
 ## Stage ownership
 
@@ -54,6 +55,7 @@ Potentially destructive, privileged, production-wide, or irreversible actions ar
 
 A workflow is resumable when its state file identifies:
 
+- artifact root;
 - active Intent;
 - current stage;
 - completed stages;
