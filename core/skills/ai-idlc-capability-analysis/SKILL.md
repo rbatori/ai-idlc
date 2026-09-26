@@ -2,7 +2,7 @@
 
 Match the active Intent to verified existing capabilities.
 
-Use the capability agent.
+Load `.agents/ai-idlc/agents/capability-agent.md` as the lead persona.
 
 ## Workflow
 
