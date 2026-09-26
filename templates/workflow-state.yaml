@@ -1,4 +1,5 @@
 version: 0.1
+artifact_root: ai-idlc
 intent: INTENT-XXX
 status: active
 current_stage: intent
