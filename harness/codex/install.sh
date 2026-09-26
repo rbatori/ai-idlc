@@ -22,4 +22,4 @@ cp "$ROOT"/core/orchestrator/AI-IDLC.md "$TARGET/.agents/ai-idlc/orchestrator/AI
 echo "AI-IDLC Runtime v0.1 installed in: $TARGET"
 echo "Skills: $TARGET/.agents/skills/"
 echo "Runtime personas: $TARGET/.agents/ai-idlc/"
-echo "Start with: $ai-idlc-init"
+echo 'Start with: $ai-idlc-init'
