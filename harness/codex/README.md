@@ -19,6 +19,16 @@ For example:
 
 The core source remains under `core/`; the harness is only a packaging/install concern.
 
+## Install into a project
+
+From a clone of AI-IDLC:
+
+```bash
+bash harness/codex/install.sh /path/to/target-project
+```
+
+This installs the skills under `.agents/skills/` and the runtime personas/orchestrator under `.agents/ai-idlc/`.
+
 ## Recommended first use in a project
 
 ```text
