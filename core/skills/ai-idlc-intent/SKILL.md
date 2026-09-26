@@ -2,7 +2,7 @@
 
 Create or refine an AI-IDLC Intent.
 
-Use the product agent.
+Load `.agents/ai-idlc/agents/product-agent.md` as the lead persona.
 
 ## Workflow
 
