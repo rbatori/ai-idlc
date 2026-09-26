@@ -26,11 +26,12 @@ The Intent is progressively refined into integration decisions, Units of Work, v
 
 1. **Intent** — define the outcome and boundaries.
 2. **Discovery** — understand systems, constraints and current state.
-3. **Integration Design** — define how tools and platforms will work together.
-4. **Construction & Configuration** — implement integrations, configuration, automation, policy, infrastructure and any required code.
-5. **Validation** — verify behavior, security, resilience and acceptance criteria.
-6. **Delivery & Operations** — deploy, observe and operate the integrated capability.
-7. **Evidence & Learning** — preserve traceability and feed lessons into future Intents.
+3. **Capability Analysis** — determine what can be adopted, configured, integrated, automated or extended before custom software is proposed.
+4. **Integration Design** — define how tools and platforms will work together.
+5. **Construction & Configuration** — implement integrations, configuration, automation, policy, infrastructure and any required code.
+6. **Validation** — verify behavior, security, resilience and acceptance criteria.
+7. **Delivery & Operations** — deploy, observe and operate the integrated capability.
+8. **Evidence & Learning** — preserve traceability and feed lessons into future Intents.
 
 ## What makes AI-IDLC different
 
