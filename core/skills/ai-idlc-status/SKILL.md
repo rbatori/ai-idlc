@@ -1,3 +1,8 @@
+---
+name: ai-idlc-status
+description: Report the current AI-IDLC workflow state, artifacts, blockers, questions, and recommended next stage.
+---
+
 # $ai-idlc-status
 
 Report the current AI-IDLC workflow state without changing project state.
