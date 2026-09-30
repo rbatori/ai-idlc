@@ -1,3 +1,8 @@
+---
+name: ai-idlc-capability-analysis
+description: Evaluate existing capabilities using ADOPT, CONFIGURE, INTEGRATE, AUTOMATE, EXTEND, then BUILD.
+---
+
 # $ai-idlc-capability-analysis
 
 Match the active Intent to verified existing capabilities.
