@@ -1,3 +1,8 @@
+---
+name: ai-idlc-init
+description: Initialize AI-IDLC runtime directories and workflow state in the current project.
+---
+
 # $ai-idlc-init
 
 Initialize AI-IDLC runtime state in a project repository.

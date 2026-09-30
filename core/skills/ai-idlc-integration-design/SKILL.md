@@ -1,3 +1,8 @@
+---
+name: ai-idlc-integration-design
+description: Create an Integration Design from an accepted Intent, Discovery Record, and Capability Matrix.
+---
+
 # $ai-idlc-integration-design
 
 Create the Integration Design for the active Intent.

@@ -1,3 +1,8 @@
+---
+name: ai-idlc-intent
+description: Create or refine an outcome-oriented AI-IDLC Intent from project context and user goals.
+---
+
 # $ai-idlc-intent
 
 Create or refine an AI-IDLC Intent.

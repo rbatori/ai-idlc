@@ -1,3 +1,8 @@
+---
+name: ai-idlc-resume
+description: Resume an interrupted AI-IDLC workflow from persisted project state without repeating completed work.
+---
+
 # $ai-idlc-resume
 
 Resume an interrupted AI-IDLC workflow.

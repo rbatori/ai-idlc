@@ -1,3 +1,8 @@
+---
+name: ai-idlc-discovery
+description: Perform evidence-first, read-only Discovery for the active AI-IDLC Intent before integration design.
+---
+
 # $ai-idlc-discovery
 
 Perform read-only Discovery for the active Intent.
