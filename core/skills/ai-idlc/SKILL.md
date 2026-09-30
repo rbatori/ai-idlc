@@ -1,3 +1,8 @@
+---
+name: ai-idlc
+description: Run or resume the AI-IDLC workflow for the current project, automatically selecting the next lifecycle stage.
+---
+
 # $ai-idlc
 
 Execute or resume the AI-IDLC workflow for the current project.
